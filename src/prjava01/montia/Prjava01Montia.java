@@ -32,6 +32,7 @@ public class Prjava01Montia {
         bw.write("<body>");bw.newLine();
         bw.write("Nova pàgina web de Miquel Montia");
         bw.newLine();
+        bw.write("DAW2 UF4  Pràctica 2");
         bw.write("</body>");bw.newLine();
         bw.write("</html>");bw.newLine();
         bw.close();
